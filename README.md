@@ -37,3 +37,9 @@ SQL (MySQL)
 - Data import script
 - Data cleaning script
 - End-to-end analysis queries
+
+## 👤 Author
+Akhil  
+Aspiring Data Analyst  
+🔗 [LinkedIn](http://www.linkedin.com/in/vankayalapati-akhil)
+
